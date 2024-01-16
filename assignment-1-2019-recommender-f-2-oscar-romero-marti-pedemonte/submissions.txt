@@ -1,0 +1,33 @@
+1: 1 user (2% kaggle), sqrt(jac)*pear, len<6, jac<0.3, sim<0.3, j*s>0.9:1	0.01468
+2: 2 user (2% kaggle), sqrt(jac)*pear, len<6, jac<0.3, sim<0.3, j*s>0.9:1	0.02286
+3: 3 user (2% kaggle), sqrt(jac)*pear, len<6, jac<0.3, sim<0.3, j*s>0.9:1	0.02637
+4: 4 user (2% kaggle), sqrt(jac)*pear, len<6, jac<0.3, sim<0.3, j*s>0.9:1	0.01621
+5: 5 user (2% kaggle), sqrt(jac)*pear, len<6, jac<0.3, sim<0.3, j*s>0.9:1	0.01347
+6: 1 user (2% kaggle), jac*pear, len<6, jac<0.3, sim<0.3, j*s>0.9:1		0.01468
+7: 2 user (2% kaggle), jac*pear, len<6, jac<0.3, sim<0.3, j*s>0.9:1		0.02286
+8: 3 user (2% kaggle), jac^(0.2)*pear, len<6, jac<0.3, sim<0.3, j*s>0.9:1	0.02637
+9: 3 user (2% kaggle), jac^(0.4)*pear, len<6, jac<0.3, sim<0.3, j*s>0.9:1	0.02637
+10: 3 user (2% kaggle), jac^(0.6)*pear, len<6, jac<0.3, sim<0.3, j*s>0.9:1	0.02637
+11: 3 user (2% kaggle), jac^(0.8)*pear, len<6, jac<0.3, sim<0.3, j*s>0.9:1	0.02637
+12: 3 user (2% kaggle), jac^(1.2)*pear, len<6, jac<0.3, sim<0.3, j*s>0.9:1	0.02637
+
+3 user (2% kaggle) i normalitzat, jac*pear, len<6, jac<0.3, sim<0.3, j*s>0.9:1, variant		0.02094
+3 user (2% kaggle) i normalitzat, jac*pear, len<6, jac<0.3, sim<0.3, j*s>0.9:1, original	0.02231
+3 user (2% kaggle) i normalitzat, jac*pear, len<6, jac<0.3, sim<0.3, j*s>0.9:1, millor 3	0.01140
+4 user (2% kaggle) i normalitzat, jac*pear, len<6, jac<0.3, sim<0.3, j*s>0.9:1, original	0.02342
+6 user (2% kaggle) i normalitzat, jac*pear, len<6, jac<0.3, sim<0.3, j*s>0.9:1, original	0.01477
+5 user (2% kaggle) i normalitzat, jac*pear, len<6, jac<0.3, sim<0.3, j*s>0.9:1, original	0.01956
+
+4 user (2% kaggle) i normalitzat, jac*pear, len<6, jac<0.3, sim<0.3, j*s>0.9:1, variant	0.01972
+
+4 user (2% kaggle) i normalitzat, jac*pear, len<6, jac<0.3, sim<0.4, j*s>0.9:1, original	0.01909
+
+4 user (2% kaggle) i normalitzat, jac*pear, len<6, jac<0.3, sim<0.2, j*s>0.9:1, original	0.01901
+
+4 user (2% kaggle) i normalitzat, jac*pear, len<5, jac<0.3, sim<0.3, j*s>0.9:1, original	0.01939
+
+4 user (2% kaggle) i normalitzat, jac*pear, len<6, jac<0.4, sim<0.3, j*s>0.85:1, original		0.02348
+
+4 user (2% kaggle) i normalitzat, jac**0.5*pear, len<6, jac<0.5, sim<0.3, j*s>0.85:1, original	0.0098
+4 user (2% kaggle) i normalitzat, euclidean, len<6, jac**0.5,  original		0.01346
+4 user (2% kaggle) i normalitzat, cosine, len<6, jac,  original	0.01346
